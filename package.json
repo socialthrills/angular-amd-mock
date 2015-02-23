@@ -1,0 +1,24 @@
+{
+  "name": "angular-amd-mock",
+  "version": "1.0.0",
+  "description": "Mocks away angular.amd.module calls.",
+  "main": "angular-amd-mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/socialthrills/angular-amd-mock.git"
+  },
+  "keywords": [
+    "angular",
+    "amd",
+    "testing"
+  ],
+  "author": "Simon Auner <simon.auner@mrgreen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/socialthrills/angular-amd-mock/issues"
+  },
+  "homepage": "https://github.com/socialthrills/angular-amd-mock"
+}
